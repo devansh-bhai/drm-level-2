@@ -1,0 +1,15 @@
+pyrofork
+tgcrypto
+requests
+yt-dlp
+aiohttp
+aiofiles
+ffmpeg
+asyncio
+humanize
+cryptg
+wget
+mediainfo
+aria2
+motor
+pytz
